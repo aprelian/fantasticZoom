@@ -1,0 +1,2 @@
+# fantasticZoom
+for python learning
